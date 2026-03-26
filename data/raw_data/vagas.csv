@@ -1,4 +1,3 @@
-titulo,empresa,localidade,salario
-Analista de Dados,Empresa A,São Paulo,5000
-Engenheiro de Dados,Empresa B,Rio de Janeiro,8000
-Cientista de Dados,Empresa C,,9000
+titulo,empresa,localizacao
+Analista de Dados,Empresa A,São Paulo
+Engenheiro de Dados,Empresa B,Remoto
