@@ -65,8 +65,8 @@ Carga dos dados tratados em banco de dados SQLite.
 
 ### 1. Clonar repositório
 ```bash
-git clone https://github.com/seu-usuario/projeto_vagas.git
-cd projeto_vagas
+git clone https://github.com/Willian-Cruz/Projeto_etl_vagas.git
+cd projeto_etl_vagas
 ```
 ### 2. Criar ambiente virtual (opcional, mas recomendado)
 ```
